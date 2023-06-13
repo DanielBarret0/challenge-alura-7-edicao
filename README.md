@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Alura Challenge Front-end 7 edição
 
 Breve resumo
