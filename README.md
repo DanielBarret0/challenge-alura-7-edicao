@@ -1,7 +1,7 @@
 <div align="center">
   
 # Alura Challenge Front-end 7 edição
-
+  
 A Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais e sem gênero. Ela acredita que a moda é muito mais do que apenas tendências passageiras e oferece peças versáteis que se adaptam a qualquer estilo e ocasião.
   
 A empresa tem por objetivo se tornar referência no mercado, atraindo mais clientes e impulsionando suas vendas, buscando alcançar um novo patamar e consolidando-se como uma empresa mais digital.
