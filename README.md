@@ -23,7 +23,7 @@ Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde
 Também recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
 
 # 🎨 Projeto no Figma
-Acesse esse projeto aqui [Projeto]()
+Acesse esse projeto aqui [Projeto](https://www.figma.com/file/2TLgt8UjsWUViWlmpXu5Fz/Challenge-Front-end-%7C-Loja-Meteora?type=design&t=eSgWQyTIbkDXy2TQ-6)
 
 No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Boreal.🌠
 <div align="center">
@@ -34,9 +34,16 @@ No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Borea
 
 Esses são os meus objetivos da semana: 
 
--
--
--
+- Passo 1 | Cabeçalho
+- Passo 2 | Cabecalho Responsividade
+- Passo 3 | Banner 
+- Passo 4 | Seção "Busque por categorias"
+- Passo 5 | Seção "Facilidades"
+- Passo 6 | Seção "Produtos"
+- Passo 7 | Seções "Responsividade"
+
+## Artigo de apoio 
+[Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
 
 # :two: Segunda Semana 
 
