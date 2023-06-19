@@ -39,7 +39,8 @@ No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Borea
 <img src="" alt="Gif do projeto no Figma">
 </div>
 
-# :one: Primeira Semana 
+
+# :one: Primeira Semana | :construction:**Em progresso** <!-- **:white_check_mark: Feito** -->
 
 Esses são os meus objetivos da semana: 
 
