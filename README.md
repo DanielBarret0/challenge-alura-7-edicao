@@ -22,21 +22,22 @@ Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde
 
 Com incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio. *Mas é uma comundiade exclusiva para alunos por isso não posso deixar o link!*
 
-<img src="" alt="banner do discord">
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/discord.png" alt="banner do discord">
 
 Também temos nossos instrutores que estão nos desafiando e auxiliando durante esse período que organizam cursos e conteudos para cada semana tanto na plataforma da alura quanto no trello.
 
-<img src="" alt="banner dos instrutores">
-<img src="" alt="banner do trello instrutores">
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/desafiantes.png" alt="banner dos instrutores">
 
-Também recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
+Recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
+
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/trello.png" alt="banner do trello instrutores">
 
 # 🎨 Projeto no Figma
 Acesse esse projeto aqui [Projeto](https://www.figma.com/file/2TLgt8UjsWUViWlmpXu5Fz/Challenge-Front-end-%7C-Loja-Meteora?type=design&t=eSgWQyTIbkDXy2TQ-6)
 
 No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Boreal.🌠
 <div align="center">
-<img src="" alt="Gif do projeto no Figma">
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/figma.png" alt="projeto no Figma">
 </div>
 
 
