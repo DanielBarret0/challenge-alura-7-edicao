@@ -18,7 +18,16 @@ Breve resumo
 
 # 💪 Sobre o Challenge da Alura
 
-Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde recebemos um layout no figma completo e temos o desafio de fazer esse site por nossa conta em **4 semanas** como tempo proposto, com incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio e também os nossos instrutores que estão nos desafiando e auxiliando durante esse período.
+Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde recebemos um layout no figma completo e temos o desafio de fazer esse site por nossa conta em **4 semanas** como tempo proposto.
+
+Com incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio. *Mas é uma comundiade exclusiva para alunos por isso não posso deixar o link!*
+
+<img src="" alt="banner do discord">
+
+Também temos nossos instrutores que estão nos desafiando e auxiliando durante esse período que organizam cursos e conteudos para cada semana tanto na plataforma da alura quanto no trello.
+
+<img src="" alt="banner dos instrutores">
+<img src="" alt="banner do trello instrutores">
 
 Também recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
 
