@@ -1,0 +1,28 @@
+.facilidades {
+    background: var(--barra-de-navegacao-fundo);
+    color: var(--fonte-branca);
+}
+
+.facilidades__conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.facilidades__subcaixa {
+    width: 50%;
+}
+
+.facilidades__titulo {
+    color: var(--fonte-verde);
+    font-weight: var(--fonte-grande);
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+}
+
+.facilidades__texto {
+    font-size: var(--fonte-textos);
+    color: var(--fonte-cinza-claro);
+}

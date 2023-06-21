@@ -1,0 +1,38 @@
+.produtos__banner {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    border: 1px solid rgba(161, 161, 161, 0.527);
+}
+
+.produtos__conteudo {
+    padding: 1rem;
+    padding-bottom: 2rem;
+}
+
+.produtos__titulo {
+    font-weight: var(--fonte-grande);
+    padding-bottom: 1rem;
+}
+
+.produtos__texto {
+    font-size: var(--fonte-textos);
+    padding-bottom: 1rem;
+    line-height: 1.25rem;
+}
+
+.produtos__preco {
+    font-weight: var(--fonte-grande);
+    padding-bottom: 1.5rem;
+}
+
+.produto__link {
+    text-decoration: none;
+    text-align: center;
+    color: var(--fonte-branca);
+    margin-bottom: 5rem;
+    width: 30%;
+    
+    background: var(--fundo-botao-roxo);
+    padding: 0.5625rem 1rem;
+}

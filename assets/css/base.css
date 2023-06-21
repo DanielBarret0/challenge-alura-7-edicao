@@ -1,0 +1,52 @@
+@import url(barra-navegacao-mobile.css);
+
+:root {
+
+    /* Fonte */
+
+    --fonte: 'Inter', sans-serif;
+    --fonte-pequena: 400;
+    --fonte-normal: 500;
+    --fonte-grande: 700;
+
+    /* Tamanho de fontes */
+
+    --fonte-titulos: 1.75rem;       /* 20px */
+    --fonte-titulo-card: 1rem;      /* 16px */ 
+    --fonte-barra-navegacao: 1rem;  /* 16px */
+    --fonte-titulo-secao: 1.5rem:   /* 24px */
+    --fonte-rodape: 0.8125rem;      /* 13px */
+    --fonte-textos: 0.8125rem;      /* 13px */
+
+    /* Cor das fontes */
+
+    --fonte-branca: #FFFFFF;
+    --fonte-preta: #212529;
+    --fonte-verde:#DAFF01;
+    --fonte-cinza-claro:#6C757D;
+
+
+    /* Cores gerais */
+
+    --barra-de-navegacao-fundo: #000000;
+    --fundo-do-site: #F7F7F7;
+    --fundo-botao-roxo:#9353FF;
+    --fundo-botao-hamburguer: #343A40;
+}
+
+body {
+    font-family: var(--fonte);
+    font-weight: var(--fonte-normal);
+    font-size: var(--fonte-tamanho-pequeno);
+    background: var(--fundo-do-site);
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1.5rem;
+
+    font-size: var(--fonte-titulos);
+}
