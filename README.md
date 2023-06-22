@@ -8,10 +8,10 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
 | -------------  | --- |
-| :sparkles: Nome        | **Nome**
+| :sparkles: Nome        | **Meteora**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-| 🎇: Bibliotecas | 
-| :rocket: URL         | [Projeto]()
+| 🎇: Bibliotecas | [Bootstrap](https://getbootstrap.com/)
+| :rocket: URL         | [Projeto](https://meteora.bohr.io)
 | :fire: Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
 | :laughing: Upgrades que fiz     | ****
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
@@ -33,6 +33,8 @@ Também temos nossos instrutores que estão nos desafiando e auxiliando durante 
 Recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
 
 <img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/trello.png" alt="banner do trello instrutores">
+
+## Objetivo
 
 Ao final desse desafio teremos eses conteudos prontos:
 
@@ -58,16 +60,23 @@ No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Borea
 
 Esses são os meus objetivos da semana: 
 
-- Passo 1 | Cabeçalho
-- Passo 2 | Cabecalho Responsividade
-- Passo 3 | Banner 
-- Passo 4 | Seção "Busque por categorias"
-- Passo 5 | Seção "Facilidades"
-- Passo 6 | Seção "Produtos"
-- Passo 7 | Seções "Responsividade"
+- :white_check_mark: Passo 1 | Cabeçalho 
+- :white_check_mark: Passo 2 | Cabecalho Responsividade
+- :white_check_mark: Passo 3 | Banner 
+- :white_check_mark: Passo 4 | Seção "Busque por categorias"
+- :white_check_mark: Passo 5 | Seção "Facilidades"
+- :white_check_mark: Passo 6 | Seção "Produtos"
+- :construction: Passo 7 | Seções "Responsividade"
 
-## Artigo de apoio 
-[Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
+## Resultados da primeira semana:
+
+<div align="center">
+<img src="" alt="gif de resultados da primeira semana">
+</div>
+
+## Artigos de apoio:
+:up: [Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0) <br>
+:up: [Imagens responsivas](https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas)
 
 # :two: Segunda Semana 
 
