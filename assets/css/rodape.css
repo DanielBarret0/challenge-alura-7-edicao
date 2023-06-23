@@ -1,0 +1,29 @@
+.rodape {
+    background-color: var(--barra-de-navegacao-fundo);
+    text-align: center;
+    padding: 2rem;
+}
+
+.rodape__texto {
+    color: var(--fonte-branca);
+    font-size: var(--fonte-rodape);
+    line-height: 1.25rem;
+}
+
+.rodape__link {
+    text-decoration: none;
+    font-weight: var(--fonte-grande);
+    color: white;
+}
+
+.rodape__link:hover {
+    color: var(--fonte-verde);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+    .rodape {
+        padding: 3rem;
+    }
+}

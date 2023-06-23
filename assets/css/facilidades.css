@@ -1,6 +1,7 @@
 .facilidades {
     background: var(--barra-de-navegacao-fundo);
     color: var(--fonte-branca);
+    padding: 1.5rem 0;
 }
 
 .facilidades__conteudo {
@@ -25,4 +26,10 @@
 .facilidades__texto {
     font-size: var(--fonte-textos);
     color: var(--fonte-cinza-claro);
+}
+
+@media screen and (min-width: 768px) {
+    .facilidades__conteudo {
+        padding: 1rem 12rem;
+    }
 }

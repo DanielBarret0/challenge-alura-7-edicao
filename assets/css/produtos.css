@@ -33,6 +33,29 @@
     margin-bottom: 5rem;
     width: 30%;
     
-    background: var(--fundo-botao-roxo);
+    background-color: var(--fundo-botao-roxo);
     padding: 0.5625rem 1rem;
 }
+
+@media screen and (min-width: 768px) {
+    .produtos__grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+        padding: 1rem 1rem 3rem 1rem;
+    }
+
+    .produtos__banner {
+        margin: 0;
+    }
+
+    .produtos__banner img {
+        height: 390px;
+        object-fit: cover;
+    }
+
+    .produtos__titulo {
+        font-weight: var(--fonte-grande);
+        padding-bottom: 1rem;
+    }
+} 

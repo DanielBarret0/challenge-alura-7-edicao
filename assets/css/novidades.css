@@ -1,0 +1,52 @@
+.novidades {
+    padding: 2rem;
+}
+
+.novidades__bloco {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 2rem 1rem;
+    border: 2px solid black;
+    
+    line-height: 1.4375rem;
+}
+
+.novidades__texto {
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+
+.novidades__inputs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.novidades__input-email {
+    padding: 0.4rem;
+    width: 90%;
+}
+
+.novidades__input-buscar {
+    background-color: var(--fundo-botao-roxo);
+    color: var(--fonte-branca);
+    padding: 0.6rem;
+    border: none;
+}
+
+@media screen and (min-width: 768px) {
+    .novidades__texto {
+        padding: 1rem 5rem;
+    }
+
+    .novidades__inputs {
+        margin: 0;
+        width: 65%;
+    }
+
+}
+

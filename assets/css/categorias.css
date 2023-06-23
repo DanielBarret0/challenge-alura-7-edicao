@@ -20,6 +20,7 @@
 .caixa {
     display: flex;
     flex-direction: column;
+    text-decoration: none;
 }
 
 .caixa__fudno {
@@ -30,4 +31,12 @@
     color: var(--fonte-branca);
     text-align: center;
     padding: 0.5rem 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .categorais {
+        padding: 0 10%;
+    }
+
+    
 }

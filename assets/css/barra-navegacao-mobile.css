@@ -1,3 +1,4 @@
+/* Base da barra de navegacao */
 .barra-navegacao__mobile {
     display: flex;
     flex-direction: column;
@@ -11,49 +12,21 @@
     background-color: var(--barra-de-navegacao-fundo);
 }
 
-.menu-hambrguer__link {
-    color: var(--fonte-branca);
-}
+/* Boatao verde Home do menu hamburguer */
 
 .link-destaque {
     color: var(--fonte-verde);
+    font-weight: var(--fonte-grande);
 }
 
-.menu-btn {
-    cursor: pointer;
-    z-index: 1;
+.menu-hamburguer-icone {
+    text-align: center;
+    margin: 0 auto;
 }
 
-.menu {
-    display: none;
-    position: absolute;
-    top: 62px;
-    left: 241px;
-    padding: 1.25rem;
-    width: 150px;
-    font-weight: var(--fonte-pequena);
-    font-size: var(--fonte-barra-navegacao);
-    background-color: var(--fundo-botao-hamburguer);
-    z-index: 1;
-}
-
-.menu.open {
-    display: flex;
-}
-
-.menu ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.menu ul li {
-    margin-bottom: 10px;
-}
-
-.menu ul li a {
-    text-decoration: none;
-    font-size: 18px;
+.menu-hamburguer-imagem {
+    width: 30px;
+    height: 30px;
 }
 
 /* ================== BARRA DE PESQUISA ================= */
@@ -66,19 +39,17 @@
     padding: 1.5rem;
 }
 
-.barra-pesquisa input {
-    padding: 0.4rem;
-}
-
 .barra-pesquisa__input-pesquisar {
     border: 1.5px solid black;
     width: 80%;
+    padding: 0.5rem;
 }
 
 .barra-pesquisa__input-buscar {
     background: none;
     border: 1.5px solid black;
     width: 30%;
+    padding: 0.6rem;
 }
 
 .barra-pesquisa__input-pesquisar::placeholder {
@@ -86,70 +57,7 @@
     font-size: var(--fonte-textos);
 }
 
-
 .barra-pesquisa__input-buscar::placeholder {
     color: var(--fonte-cinza-claro);
     font-size: 1rem;
-}
-
-/* Icone do menu hamburguer animado */
-/* https://uiverse.io/Cevorob/good-wolverine-51 */
-
-.burger {
-    position: relative;
-    width: 40px;
-    height: 30px;
-    background: transparent;
-    cursor: pointer;
-    display: block;
-}
-
-.burger input {
-    display: none;
-}
-
-.burger span {
-    position: absolute;
-    height: 4px;
-    width: 100%;
-    background: var(--fonte-verde);
-    border-radius: 9px;
-    opacity: 1;
-    left: 0;
-    transform: rotate(0deg);
-    transition: .25s ease-in-out;
-}
-
-.burger span:nth-of-type(1) {
-    top: 0px;
-    transform-origin: left center;
-}
-
-.burger span:nth-of-type(2) {
-    top: 50%;
-    transform: translateY(-50%);
-    transform-origin: left center;
-}
-
-.burger span:nth-of-type(3) {
-    top: 100%;
-    transform-origin: left center;
-    transform: translateY(-100%);
-}
-
-.burger input:checked~span:nth-of-type(1) {
-    transform: rotate(45deg);
-    top: 0px;
-    left: 5px;
-}
-
-.burger input:checked~span:nth-of-type(2) {
-    width: 0%;
-    opacity: 0;
-}
-
-.burger input:checked~span:nth-of-type(3) {
-    transform: rotate(-45deg);
-    top: 28px;
-    left: 5px;
 }
