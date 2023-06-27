@@ -56,7 +56,7 @@ No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Borea
 </div>
 
 
-# :one: Primeira Semana | :construction:**Em progresso** <!-- **:white_check_mark: Feito** -->
+# :one: Primeira Semana | **:white_check_mark: Feito**
 
 Esses são os meus objetivos da semana: 
 
@@ -82,13 +82,16 @@ Um desafio que encontrei nessa semana foi o menu hamburguer para o layout mobile
 :up: [Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0) <br>
 :up: [Imagens responsivas](https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas)
 
-# :two: Segunda Semana 
+# :two: Segunda Semana :construction:**Em progresso**
 
 Esses são os meus objetivos da semana: 
 
-- :construction: Passo 1 | 
--
--
+- :white_check_mark: Passo 1 | Rodapé
+- :white_check_mark: Passo 2 | Cadastro na Newsletter
+- :white_check_mark: Passo 3 | Carrosel
+- :construction: Passo 4 | Modal - Produtos
+- :construction: Passo 5 | Modal - Produtos responsividade
+- :construction: Passo 6 | Modal - Newslatter
 
 ## Breve Resumo 
 
