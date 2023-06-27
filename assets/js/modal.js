@@ -1,15 +1,31 @@
 /* Modal */
 
-const button = document.querySelector("button")
+const botao = document.getElementById('botaoAbrirModal')
 
-const modal = document.querySelector("dialog")
+const modal = document.querySelector('#dialogCamiseta')
 
-const buttonClose = document.querySelector("dialog button")
+const botaoFechar = document.getElementById('botaoFechar')
 
-button.onclick = function () {
+botao.onclick = function () {
     modal.showModal()
 }
 
-buttonClose.onclick = function () {
+botaoFechar.onclick = function () {
     modal.close()
+}
+
+/* Modal 2*/
+
+const botao2 = document.getElementById('botaoAbrirModal2')
+
+const modal2 = document.querySelector('#dialogCalca')
+
+const botaoFechar2 = document.getElementById('botaoFechar2')
+
+botao2.onclick = function () {
+    modal2.showModal()
+}
+
+botaoFechar2.onclick = function () {
+    modal2.close()
 }

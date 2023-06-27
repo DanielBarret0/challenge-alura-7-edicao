@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="assets/css/facilidades.css">
     <link rel="stylesheet" href="assets/css/novidades.css">
     <link rel="stylesheet" href="assets/css/rodape.css">
+    <link rel="stylesheet" href="assets/css/dialog.css">
 
 </head>
 
@@ -263,10 +264,77 @@
 
                         <p class="produtos__preco">R$ 70,00</p>
 
-                        <a href="#" class="produto__link">Ver mais</a>
+                        <button class="produto__link" id="botaoAbrirModal">Ver mais</button>
                     </div>
 
                 </div>
+
+                <dialog id="dialogCamiseta">
+                    <div class="dialog__nav">
+                        <div class="dialog__caixa">
+                            <img class="dialog__icone" src="assets/img/check.svg" aria-label="false">
+
+                            <h3 class="dialog__titulo">Confira Detalhes sobre o produto</h3>
+                        </div>
+
+                        <button class="dialog__botao-fechar" id="botaoFechar">
+                            <i class="bi bi-x-lg icone-x"></i>
+                        </button>
+                    </div>
+
+                    <div class="dialog__container">
+
+                        <div class="dialog__conteudo">
+
+                            <img class="dialog__container-imagem" src="assets/img/Desktop/Imagens Cards/Camiseta.png">
+
+                            <h3 class="dialog__conteudo-titulo">Camiseta Conforto</h3>
+
+                            <p class="dialog__texto">Modelo unissex oversized com gola de camurça. Atemporal e
+                                autêntica!</p>
+
+                            <p class="dialog__preco">R$ 150,00</p>
+
+                            <p class="dialog__preco-subtexto">Vendido e entregue por Meteora</p>
+
+                            <h3 class="dialog__conteudo-subtitulo">Cores:</h3>
+
+                            <form class="formulario__cores">
+                                <input type="radio" id="azul-claro" name="cor" value="Azul-clao">
+                                <label for="azul-claro">Azul Claro</label>
+
+                                <input type="radio" id="offwhite" name="cor" value="Offwhite">
+                                <label for="offwhite">Offwhite</label>
+
+                                <input type="radio" id="preto" name="cor" value="Preto">
+                                <label for="preto">Preto</label>
+                            </form>
+
+                            <h3 class="dialog__conteudo-subtitulo">Tamanhos:</h3>
+
+                            <form class="formulario__tamanhos">
+                                <input type="radio" id="PP" name="tamanho" value="PP">
+                                <label for="PP">PP</label>
+
+                                <input type="radio" id="P" name="tamanho" value="P">
+                                <label for="P">P</label>
+
+                                <input type="radio" id="M" name="tamanho" value="m">
+                                <label for="m">M</label>
+
+                                <input type="radio" id="G" name="tamanho" value="g">
+                                <label for="g">G</label>
+
+                                <input type="radio" id="GG" name="tamanho" value="gg">
+                                <label for="gg">GG</label>
+
+                            </form>
+
+                            <button class="dialog__conteudo-botao" type="submit">Adicionar á sacola</button>
+                        </div>
+                    </div>
+
+                </dialog>
 
                 <div class="produtos__banner" id="calca">
                     <img src="assets/img/Mobile/Imagens cards/Card calça.png" alt="Imagem de modelo com calça">
@@ -278,10 +346,76 @@
 
                         <p class="produtos__preco">R$ 180,00</p>
 
-                        <a href="#" class="produto__link">Ver mais</a>
+                        <button class="produto__link" id="botaoAbrirModal2">Ver mais</button>
                     </div>
 
                 </div>
+
+                <dialog id="dialogCalca">
+                    <div class="dialog__nav">
+                        <div class="dialog__caixa">
+                            <img class="dialog__icone" src="assets/img/check.svg" aria-label="false">
+
+                            <h3 class="dialog__titulo">Confira Detalhes sobre o produto</h3>
+                        </div>
+
+                        <button class="dialog__botao-fechar" id="botaoFechar2">
+                            <i class="bi bi-x-lg icone-x"></i>
+                        </button>
+                    </div>
+
+                    <div class="dialog__container">
+
+                        <div class="dialog__conteudo">
+
+                            <img class="dialog__container-imagem" src="assets/img/Desktop/Imagens Cards/Calça.png">
+
+                            <h3 class="dialog__conteudo-titulo">Calça Alfaiataria</h3>
+
+                            <p class="dialog__texto">Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!</p>
+
+                            <p class="dialog__preco">R$ 180,00</p>
+
+                            <p class="dialog__preco-subtexto">Vendido e entregue por Meteora</p>
+
+                            <h3 class="dialog__conteudo-subtitulo">Cores:</h3>
+
+                            <form class="formulario__cores">
+                                <input type="radio" id="azul-claro" name="cor" value="Azul-clao">
+                                <label for="azul-claro">Azul Claro</label>
+
+                                <input type="radio" id="offwhite" name="cor" value="Offwhite">
+                                <label for="offwhite">Offwhite</label>
+
+                                <input type="radio" id="preto" name="cor" value="Preto">
+                                <label for="preto">Preto</label>
+                            </form>
+
+                            <h3 class="dialog__conteudo-subtitulo">Tamanhos:</h3>
+
+                            <form class="formulario__tamanhos">
+                                <input type="radio" id="PP" name="tamanho" value="PP">
+                                <label for="PP">PP</label>
+
+                                <input type="radio" id="P" name="tamanho" value="P">
+                                <label for="P">P</label>
+
+                                <input type="radio" id="M" name="tamanho" value="m">
+                                <label for="m">M</label>
+
+                                <input type="radio" id="G" name="tamanho" value="g">
+                                <label for="g">G</label>
+
+                                <input type="radio" id="GG" name="tamanho" value="gg">
+                                <label for="gg">GG</label>
+
+                            </form>
+
+                            <button class="dialog__conteudo-botao" type="submit">Adicionar á sacola</button>
+                        </div>
+                    </div>
+
+                </dialog>
 
                 <div class="produtos__banner" id="calcados">
                     <img src="assets/img/Mobile/Imagens cards/Card tenis.png" alt="Imagem de modelo com Tenis">
@@ -424,6 +558,7 @@
         integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
         crossorigin="anonymous"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/modal.js"></script>
 </body>
 
 </html>

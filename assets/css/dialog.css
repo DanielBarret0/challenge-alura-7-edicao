@@ -1,0 +1,111 @@
+dialog {
+    padding: 0;
+    border: none;
+}
+
+dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.492);
+}
+
+.dialog__nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    padding: 1.5rem;
+    color: white;
+}
+
+.dialog__caixa {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.dialog__icone {
+    width: 30px;
+    height: 30px;
+}
+
+.dialog__titulo {
+    width: 60%;
+}
+
+.dialog__botao-fechar {
+    border: none;
+    background-color: transparent;
+}
+
+.icone-x {
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.dialog__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.dialog__container-imagem {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.dialog__conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0 1rem 1rem 1rem;
+    border: 1px solid rgba(161, 161, 161, 0.527);
+}
+
+.dialog__conteudo-titulo {
+    font-weight: 700;
+}
+
+.dialog__texto {
+    font-size: 0.9rem;
+}
+
+.dialog__preco {
+    font-size: 1.2rem;
+}
+
+.dialog__preco-subtexto {
+    font-size: 0.8rem;
+    color: #ADB5BD;
+}
+
+.dialog__conteudo-subtitulo {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.formulario__cores {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+
+.formulario__tamanhos {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+
+.dialog__conteudo-botao {
+    text-decoration: none;
+    text-align: center;
+    color: var(--fonte-branca);
+    width: 60%;
+    text-align: center;
+    background-color: var(--fundo-botao-roxo);
+    padding: 10px 12px;
+    border: none;
+}
