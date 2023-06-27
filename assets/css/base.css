@@ -1,4 +1,3 @@
-
 :root {
 
     /* Fonte */
@@ -10,27 +9,37 @@
 
     /* Tamanho de fontes */
 
-    --fonte-titulos: 1.75rem;       /* 20px */
-    --fonte-titulo-card: 1rem;      /* 16px */ 
-    --fonte-barra-navegacao: 1rem;  /* 16px */
-    --fonte-titulo-secao: 1.5rem:   /* 24px */
-    --fonte-rodape: 0.8125rem;      /* 13px */
-    --fonte-textos: 0.8125rem;      /* 13px */
+    --fonte-titulos: 1.75rem;
+    /* 20px */
+    --fonte-titulo-card: 1rem;
+    /* 16px */
+    --fonte-barra-navegacao: 1rem;
+    /* 16px */
+    --fonte-titulo-secao: 1.5rem:
+        /* 24px */
+        --fonte-rodape: 0.8125rem;
+    /* 13px */
+    --fonte-textos: 0.8125rem;
+    /* 13px */
 
     /* Cor das fontes */
 
     --fonte-branca: #FFFFFF;
     --fonte-preta: #212529;
-    --fonte-verde:#DAFF01;
-    --fonte-cinza-claro:#6C757D;
+    --fonte-verde: #DAFF01;
+    --fonte-cinza-claro: #6C757D;
 
 
     /* Cores gerais */
 
     --barra-de-navegacao-fundo: #000000;
     --fundo-do-site: #F7F7F7;
-    --fundo-botao-roxo:#9353FF;
+    --fundo-botao-roxo: #9353FF;
     --fundo-botao-hamburguer: #343A40;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -48,4 +57,59 @@ body {
     padding: 1.5rem;
 
     font-size: var(--fonte-titulos);
+}
+
+/* Botao de voltar ao topo */
+
+#btnVoltarAoTopo {
+    display: none;
+    /* Esconder o botão inicialmente */
+    position: fixed;
+    /* Posicionar o botão fixo na tela */
+    bottom: 20px;
+    right: 20px;
+    z-index: 3;
+    background-color: #000;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+#btnVoltarAoTopo:hover {
+    background-color: #333;
+}
+
+#btnVoltarAoTopo {
+    padding: 0;
+    margin: 0;
+}
+
+.icone-botao-topo {
+    color: var(--fonte-verde);
+    font-size: 2.5rem;
+}
+
+.botao__topo-sombra {
+    box-shadow: 3px 3px 35px 0px rgba(0, 0, 0, 0.44);
+}
+
+@media screen and (min-width: 768px) {
+    #btnVoltarAoTopo {
+        bottom: 30px;
+        right: 30px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    #btnVoltarAoTopo {
+        bottom: 35px;
+        right: 35px;
+    }
+}
+
+@media screen and (min-width: 2040px) {
+    #btnVoltarAoTopo {
+        bottom: 45px;
+        right: 45px;
+    }
 }

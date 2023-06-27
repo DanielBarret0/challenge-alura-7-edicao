@@ -28,13 +28,14 @@
 
 .novidades__input-email {
     padding: 0.4rem;
+    border: 1px solid black;
     width: 90%;
 }
 
 .novidades__input-buscar {
     background-color: var(--fundo-botao-roxo);
     color: var(--fonte-branca);
-    padding: 0.6rem;
+    padding: 0.5rem;
     border: none;
 }
 
@@ -48,5 +49,19 @@
         width: 65%;
     }
 
+}
+
+@media screen and (min-width: 1440px) {
+    .novidades {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        width: 52.25rem;
+    }
+
+    .novidades__input-buscar {
+        width: 5.625rem;
+    }
 }
 

@@ -1,8 +1,23 @@
-/* RESPONSIVIDADE DO CARROSEL */
 
+/* TABLET */
 
 @media screen and (min-width: 768px) {
-    .carousel-item{
+    .carousel-item {
         height: 420px;
+    }
+}
+
+/* DESKTOP */
+
+@media screen and (min-width: 1440px) {
+    .carousel-item {
+        height: 415px;
+    }
+
+}
+
+@media screen and (min-width: 2000px) {
+    .carousel-item {
+        height: 650px;
     }
 }

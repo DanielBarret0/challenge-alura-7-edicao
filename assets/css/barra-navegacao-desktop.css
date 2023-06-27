@@ -17,8 +17,13 @@
 .lista__aba {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
     gap: 1rem;
+}
+
+.lista__aba-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .lista__aba-link {
@@ -50,6 +55,8 @@
     display: none;
 }
 
+/* TABLET */
+
 @media screen and (min-width: 768px) {
     .barra-navegacao__mobile {
         display: none;
@@ -57,5 +64,21 @@
 
     .barra-navegacao__desktop {
         display: flex;
+    }
+}
+
+/* DESKTOP */
+
+@media screen and (min-width: 1440px) {
+    .barra-navegacao__desktop-bloco, .lista__aba {
+        gap: 2.5rem;
+    }
+
+    .lista__aba-link {
+        font-size: 1.1rem;
+    }
+
+    .barra-pesquisa-desktop {
+        width: 190px;
     }
 }
