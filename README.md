@@ -66,13 +66,17 @@ Esses são os meus objetivos da semana:
 - :white_check_mark: Passo 4 | Seção "Busque por categorias"
 - :white_check_mark: Passo 5 | Seção "Facilidades"
 - :white_check_mark: Passo 6 | Seção "Produtos"
-- :construction: Passo 7 | Seções "Responsividade"
+- :white_check_mark: Passo 7 | Seções "Responsividade"
 
 ## Resultados da primeira semana:
 
 <div align="center">
 <img src="" alt="gif de resultados da primeira semana">
 </div>
+
+## Breve Resumo 
+
+Um desafio que encontrei nessa semana foi o menu hamburguer para o layout mobile, Utilizei o bootstrap para me ajduar usando o [Dropdown](https://getbootstrap.com/docs/5.3/components/dropdowns/) e custumizando um pouco as cores e fonte.
 
 ## Artigos de apoio:
 :up: [Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0) <br>
@@ -82,9 +86,18 @@ Esses são os meus objetivos da semana:
 
 Esses são os meus objetivos da semana: 
 
+- :construction: Passo 1 | 
 -
 -
--
+
+## Breve Resumo 
+
+- Usei tag dialog no modal
+
+
+## Artigos de apoio:
+:up: [Como fazer modal](https://www.youtube.com/watch?v=hg66uftLsTQ) <br>
+
 
 # :three: Terceira Semana 
 
