@@ -13,7 +13,7 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 | 🎇: Bibliotecas | [Bootstrap](https://getbootstrap.com/)
 | :rocket: URL         | [Projeto](https://meteora.bohr.io)
 | :fire: Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
-| :laughing: Upgrades que fiz     | ****
+| :laughing: Upgrades que fiz     | **Botão de voltar ao topo, Modal usando Dialog, Scrollbar personalizada**
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
   
 </div>
@@ -76,33 +76,34 @@ Esses são os meus objetivos da semana:
 
 ## Breve Resumo 
 
-Um desafio que encontrei nessa semana foi o menu hamburguer para o layout mobile, Utilizei o bootstrap para me ajduar usando o [Dropdown](https://getbootstrap.com/docs/5.3/components/dropdowns/) e custumizando um pouco as cores e fonte.
+Um desafio que encontrei nesta semana foi o menu hambúrguer para o layout mobile. Utilizei o Bootstrap para me ajudar, usando o [Dropdown](https://getbootstrap.com/docs/5.3/components/dropdowns/) e personalizando um pouco as cores e a fonte.
 
-## Artigos de apoio:
+## Artigos de apoio semana 1:
 :up: [Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0) <br>
 :up: [Imagens responsivas](https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas)
 
-# :two: Segunda Semana :construction:**Em progresso**
+# :two: Segunda Semana **:white_check_mark: Feito**
 
 Esses são os meus objetivos da semana: 
 
 - :white_check_mark: Passo 1 | Rodapé
 - :white_check_mark: Passo 2 | Cadastro na Newsletter
 - :white_check_mark: Passo 3 | Carrosel
-- :construction: Passo 4 | Modal - Produtos
-- :construction: Passo 5 | Modal - Produtos responsividade
-- :construction: Passo 6 | Modal - Newslatter
+- :white_check_mark: Passo 4 | Modal - Produtos
+- :white_check_mark: Passo 5 | Modal - Produtos responsividade
+- :white_check_mark: Passo 6 | Modal - Newslatter
 
 ## Breve Resumo 
 
-- Usei tag dialog no modal
+Nesta semana, foram criados os modais, que são os cards que aparecem como uma janela sobrepondo todo o conteúdo do site quando clico em um botão. Foi a primeira vez que usei um modal e achei um verdadeiro desafio fazê-lo funcionar com vários cards diferentes usando o mesmo código JavaScript. Utilizei inteligência artificial para me ajudar nesse desafio e explicar como funciona, e consegui fazê-lo funcionar! A tag <dialog> é algo mais recente no HTML5 e vou deixar um link falando mais sobre ela na aba de artigos de apoio dessa semana.
 
 
-## Artigos de apoio:
+## Artigos de apoio semana 2:
 :up: [Como fazer modal](https://www.youtube.com/watch?v=hg66uftLsTQ) <br>
+:up: [Tag dialog](https://www.w3schools.com/TAGS/tag_dialog.asp)
 
 
-# :three: Terceira Semana 
+# :three: Terceira Semana :construction:**Em Breve**
 
 Esses são os meus objetivos da semana: 
 
