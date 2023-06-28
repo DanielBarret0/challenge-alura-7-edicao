@@ -10,7 +10,7 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-| 🎇: Bibliotecas | [Bootstrap](https://getbootstrap.com/)
+| 🎇: Bibliotecas | [Bootstrap](https://getbootstrap.com/), [ScrollBar](https://codepen.io/stephenpaton-tech/full/JjRvGmY).
 | :rocket: URL         | [Projeto](https://meteora.bohr.io)
 | :fire: Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
 | :laughing: Upgrades que fiz     | **Botão de voltar ao topo, Modal usando Dialog, Scrollbar personalizada**
