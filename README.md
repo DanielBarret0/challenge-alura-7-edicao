@@ -71,7 +71,7 @@ Esses são os meus objetivos da semana:
 ## Resultados da primeira semana:
 
 <div align="center">
-<img src="" alt="gif de resultados da primeira semana">
+<img src="https://github.com/DanielBarret0/meteora-challenge-alura-7-edicao/blob/main/assets/gif/banner-vitrine-dev.gif" alt="gif de resultados da primeira semana">
 </div>
 
 ## Breve Resumo 
@@ -128,7 +128,7 @@ Esses são os meus objetivos da semana:
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev" alt="imagem banner do Vitrine Dev">
+<img src="https://github.com/DanielBarret0/meteora-challenge-alura-7-edicao/blob/main/assets/gif/banner-vitrine-dev.gif#vitrinedev" alt="imagem banner do Vitrine Dev">
 </div>
 
 
