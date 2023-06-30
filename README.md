@@ -97,10 +97,19 @@ Esses são os meus objetivos da semana:
 
 Nesta semana, foram criados os modais, que são os cards que aparecem como uma janela sobrepondo todo o conteúdo do site quando clico em um botão. Foi a primeira vez que usei um modal e achei um verdadeiro desafio fazê-lo funcionar com vários cards diferentes usando o mesmo código JavaScript. Utilizei inteligência artificial para me ajudar nesse desafio e explicar como funciona, e consegui fazê-lo funcionar! A tag <dialog> é algo mais recente no HTML5 e vou deixar um link falando mais sobre ela na aba de artigos de apoio dessa semana.
 
+Personalizei cada Modal com informações que fazem sentido para cada produto. Por exemplo: usar tamanho GG ou P em um óculos não faz sentido, aí alterei para tamanho único.
+
+Adicionei um botão de voltar ao topo da tela para facilitar quando for necessário voltar ao início do site.
+
+Fiz uma barra de rolagem com a cor principal do site para dar um destaque de personalização maior.
+
+Outra melhoria que fiz foi fazer com que cada card da categoria levasse direto ao produto correspondente usando a tag CSS [“scroll-behavior: smooth;”](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1) para fazer esse efeito. Isso dá uma melhor praticidade e usabilidade no site, esse efeito também foi adicionado na barra de navegação.
+
 
 ## Artigos de apoio semana 2:
 :up: [Como fazer modal](https://www.youtube.com/watch?v=hg66uftLsTQ) <br>
-:up: [Tag dialog](https://www.w3schools.com/TAGS/tag_dialog.asp)
+:up: [Tag dialog](https://www.w3schools.com/TAGS/tag_dialog.asp) <br>
+:up: [Efeito suave de rolagem - Scroll Behavior](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1).
 
 
 # :three: Terceira Semana :construction:**Em Breve**
