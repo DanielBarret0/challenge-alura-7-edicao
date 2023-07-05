@@ -1,10 +1,15 @@
 dialog {
     padding: 0;
     border: none;
+    border-radius: 10px;
 }
 
 dialog::backdrop {
     background-color: rgba(0, 0, 0, 0.593);
+}
+
+dialog::-webkit-scrollbar {
+    display: none;
 }
 
 .dialog__nav {

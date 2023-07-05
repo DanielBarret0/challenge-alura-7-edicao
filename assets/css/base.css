@@ -86,11 +86,35 @@ body {
 
 .icone-botao-topo {
     color: var(--fonte-verde);
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 
 .botao__topo-sombra {
     box-shadow: 3px 3px 35px 0px rgba(0, 0, 0, 0.44);
+}
+
+/* ScrollBar */
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+    scrollbar-width: auto;
+    scrollbar-color: #daff01 #fafafa;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #fafafa;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #daff01;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
 }
 
 @media screen and (min-width: 768px) {

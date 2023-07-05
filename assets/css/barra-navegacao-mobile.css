@@ -52,6 +52,11 @@
     padding: 0.6rem;
 }
 
+.barra-pesquisa__input-buscar:hover {
+    background-color: black;
+    color: white;
+}
+
 .barra-pesquisa__input-pesquisar::placeholder {
     color: var(--fonte-cinza-claro);
     font-size: var(--fonte-textos);

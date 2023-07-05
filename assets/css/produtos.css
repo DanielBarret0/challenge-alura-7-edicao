@@ -8,6 +8,16 @@
     border: 1px solid rgba(161, 161, 161, 0.527);
     text-decoration: none;
     color: var(--fonte-preta);
+    overflow: hidden;
+}
+
+.produtos__banner img {
+    transition: 3s all;
+}
+
+.produtos__banner img:hover {
+    transform: scale3d(1.1,1.1,1.1);
+	transition: transform 3s ease-in-out;
 }
 
 .produtos__conteudo {
@@ -17,7 +27,7 @@
 
 .produtos__titulo {
     font-weight: var(--fonte-grande);
-    padding-bottom: 1rem;
+    padding: 1rem 0;
 }
 
 .produtos__grid {
