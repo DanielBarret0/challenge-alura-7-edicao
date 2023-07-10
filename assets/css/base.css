@@ -71,8 +71,9 @@ body {
     z-index: 3;
     background-color: #000;
     border: none;
-    border-radius: 100%;
+    border-radius: 50px;
     cursor: pointer;
+    padding: 1rem;
 }
 
 #btnVoltarAoTopo:hover {
@@ -86,7 +87,7 @@ body {
 
 .icone-botao-topo {
     color: var(--fonte-verde);
-    font-size: 3.5rem;
+    font-size: 2.5rem;
 }
 
 .botao__topo-sombra {
