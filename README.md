@@ -112,24 +112,36 @@ Outra melhoria que fiz foi fazer com que cada card da categoria levasse direto a
 :up: [Efeito suave de rolagem - Scroll Behavior](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1).
 
 
-# :three: Terceira Semana :construction:**Em Breve**
+# :three: e :four: Terceira e quarta semana :construction: **Em Breve**
 
 Esses são os meus objetivos da semana: 
 
--
--
--
+- Passo 1 | Galeria de Produtos - Listagem via API
+- Passo 2 | Galeria de Produtos - Filtrar por categoria
+- Passo 3 | Galeria de Produtos - Filtrar por barra de pesquisa
+- Passo 4 | Modal de Produtos - Abrir / Fechar
+- Passo 5 | Modal de Newsletter - Abrir / Fechar
+- Passo 6 | Cadastro Newsletter - Validação
 
 
-# :four: Quarta Semana 
+## Breve Resumo 
 
-Esses são os meus objetivos da semana: 
-
--
--
--
+Esses desafios da terceira e quarta semana são um pouco avançados para mim no momento. Estou estudando o conteúdo sobre consumo de API e como filtrar pesquisas usando JavaScript, além de fazer validações. Logo, espero conseguir aplicar meus conhecimentos em desafios como esse e concluir todas as semanas!
 
 # 🤯 Minha experiência
+
+Cada edição do Challenge Front end é uma experiência de aprendizado incrível. A cada desafio, sinto e percebo melhorias em vários aspectos do meu desenvolvimento e consigo identificar minha evolução e, mais importante, onde posso melhorar a cada desafio concluído. Foram quatro semanas de desafio intenso, com muito conteúdo, e consegui trazer algo diferente, como o uso de IA para gerar algumas imagens, e assim conhecer melhor o potencial de algumas ferramentas de inteligência artificial.
+
+A interação com a comunidade no Discord foi uma parte essencial desse desafio. Lá, pude compartilhar experiências, receber apoio e trocar conhecimentos com colegas do desafio. Além disso, sempre contamos com o suporte dos instrutores, seja por meio de dicas específicas, grupos de estudos ou transmissões ao vivo durante o evento, o que auxiliou ao longo do processo. Utilizamos o Trello para organizar as tarefas e acompanhar nosso progresso.
+
+O objetivo principal era criar um site funcional que atendesse a determinadas especificações. Isso incluía uma página inicial com um buscador de produtos, um banner destacando a coleção atual, galerias de categorias e produtos, uma modal com informações detalhadas do produto, seções de divulgação das facilidades da loja, cadastro na newsletter e um rodapé informativo.
+
+Durante as primeiras semanas, consegui concluir uma série de tarefas, como a criação do cabeçalho, rodapé, cadastro na newsletter, carrossel e modais de produtos e newsletter, além de garantir a responsividade das seções.
+
+No entanto, as semanas três e quatro apresentaram desafios mais avançados para mim. Estou focado em estudar e compreender o consumo de APIs, a filtragem de pesquisas usando JavaScript e as validações necessárias. Esses conhecimentos serão fundamentais para completar essas etapas e alcançar o objetivo final do desafio.
+
+Estou satisfeito com meu desempenho até o momento e com o que consegui aprender e aplicar nesse desafio. Estou determinado a concluir todas as semanas do desafio. É uma jornada de aprendizado contínuo e estou ansioso para superar os desafios que estão por vir!
+
 
 ## ⭐ Representação do projeto em diversas telas
 <div align="center">
