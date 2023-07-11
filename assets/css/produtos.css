@@ -22,7 +22,7 @@
 
 .produtos__conteudo {
     padding: 1rem;
-    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .produtos__titulo {
@@ -58,6 +58,11 @@
     background-color: var(--fundo-botao-roxo);
     padding: 10px 12px;
     border: none;
+    transition: 500ms;
+}
+
+.produto__link:hover {
+    background-color: var(--fundo-botao-roxo-hover);
 }
 
 @media screen and (min-width: 768px) {

@@ -37,6 +37,11 @@
     color: var(--fonte-branca);
     padding: 0.5rem;
     border: none;
+    transition: 500ms;
+}
+
+.novidades__input-buscar:hover {
+    background-color: var(--fundo-botao-roxo-hover);
 }
 
 @media screen and (min-width: 768px) {
