@@ -145,7 +145,7 @@ Estou satisfeito com meu desempenho até o momento e com o que consegui aprender
 
 ## ⭐ Representação do projeto em diversas telas
 <div align="center">
-![Demonstração]()
+<img src="https://github.com/DanielBarret0/meteora/blob/main/assets/gif/projeto-completo.jpeg" alt="projeto pagina inteira">
 </div>
 
 # 🖼️ Banner do VitrineDev
