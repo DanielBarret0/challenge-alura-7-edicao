@@ -54,10 +54,11 @@ dialog::-webkit-scrollbar {
     padding: 1rem;
 }
 
-
 .dialog__container-imagem {
     box-sizing: border-box;
     width: 100%;
+    aspect-ratio: 3/2.7;
+    object-fit: cover;
 }
 
 .dialog__conteudo-layout-desktop {
@@ -169,5 +170,21 @@ dialog::-webkit-scrollbar {
     
     .dialog__conteudo-titulo {
         padding: 1rem 0 1rem 0;
+    }
+
+    .dialog__container-imagem {
+        aspect-ratio: 3/2;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .dialog__container-imagem {
+        aspect-ratio: 2/2;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .dialog__container-imagem {
+        aspect-ratio: 3/3;
     }
 }

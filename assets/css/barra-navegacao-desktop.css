@@ -32,6 +32,11 @@
     font-size: var(--fonte-textos);
 }
 
+.lista__aba-link:hover {
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid white;
+}
+
 .lista__input {
     display: flex;
     align-items: center;
