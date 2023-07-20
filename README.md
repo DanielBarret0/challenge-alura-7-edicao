@@ -1,4 +1,8 @@
 <div align="center">
+
+<div align="center">
+<img src="https://github.com/DanielBarret0/meteora-challenge-alura-7-edicao/blob/main/assets/gif/banner-vitrine-dev.png" alt="imagem banner do Meteiora">
+</div>
   
 # Alura Challenge Front-end 7 edição
   
@@ -112,7 +116,7 @@ Outra melhoria que fiz foi fazer com que cada card da categoria levasse direto a
 :up: [Efeito suave de rolagem - Scroll Behavior](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1).
 
 
-# :three: e :four: Terceira e quarta semana :construction: **Em Breve**
+# Terceira e quarta semana **:white_check_mark: Feito**
 
 Esses são os meus objetivos da semana: 
 
@@ -145,14 +149,8 @@ Estou satisfeito com meu desempenho até o momento e com o que consegui aprender
 
 ## ⭐ Representação do projeto em diversas telas
 <div align="center">
-<img src="https://github.com/DanielBarret0/meteora/blob/main/assets/gif/projeto-completo.jpeg" alt="projeto pagina inteira">
+<img src="https://github.com/DanielBarret0/meteora/blob/main/assets/gif/projeto-completo.jpeg#vitrinedev" alt="projeto pagina inteira">
 </div>
-
-# 🖼️ Banner do VitrineDev
-<div align="center">
-<img src="https://github.com/DanielBarret0/meteora-challenge-alura-7-edicao/blob/main/assets/gif/banner-vitrine-dev.png#vitrinedev" alt="imagem banner do Vitrine Dev">
-</div>
-
 
 # 🙋‍♂️ Autor
 
